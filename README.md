@@ -1,2 +1,3 @@
 # GraphDrawer
-this is a example
+
+Grapher drawing example using MPAndroidChart
